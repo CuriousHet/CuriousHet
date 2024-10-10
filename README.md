@@ -1,5 +1,5 @@
 # 🏄‍♂️ Het Patel
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil210&label=Profile%20views&color=0e75b6&style=flat" alt="fenil210" /> </p>
 **`Code Rookie`**
 
 
