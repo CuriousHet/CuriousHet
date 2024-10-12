@@ -1,7 +1,10 @@
 # 🏄‍♂️ Het Patel
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CuriousHet&label=Profile%20views&color=0e75b6&style=flat" alt="uriousHet" /> </p>
-**Code Rookie**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=CuriousHet&label=Profile%20views&color=0e75b6&style=flat" alt="CuriousHet" /> 
+  <img src="https://img.shields.io/badge/Last%20updated-just%20now-brightgreen" alt="Profile last updated">
+</p>
 
+**Code Rookie**
 
 ### 🧰 Languages and Tools
 
@@ -22,13 +25,15 @@
 <img align="left" alt="Apache Hadoop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
+<br clear="left"/>
 
-<br />
+### 📊 Stats
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CuriousHet&show_icons=true&locale=en&layout=compact" alt="CuriousHet" style="max-width: 30%;" />
+</div>
 
-<br>
+### 📊 Random Quote
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuriousHet&show_icons=true&locale=en&layout=compact" alt="CuriousHet" /></p>
+> "Code your future, one keystroke at a time." 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CuriousHet&show_icons=true&locale=en" alt="CuriousHet" /></p>
 
-[kaggle]: https://www.kaggle.com/hetpatel10
