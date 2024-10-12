@@ -1,6 +1,6 @@
 # 🏄‍♂️ Het Patel
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil210&label=Profile%20views&color=0e75b6&style=flat" alt="fenil210" /> </p>
-**`Code Rookie`**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CuriousHet&label=Profile%20views&color=0e75b6&style=flat" alt="uriousHet" /> </p>
+**Code Rookie**
 
 
 ### 🧰 Languages and Tools
