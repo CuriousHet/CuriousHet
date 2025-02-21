@@ -30,4 +30,4 @@
 
 ### 📊 Random Quote
 
-> "Code your future, one keystroke at a time." 
+> Code your future, one keystroke at a time.
