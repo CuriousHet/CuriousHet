@@ -30,6 +30,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CuriousHet&show_icons=true&locale=en&layout=compact" alt="CuriousHet" style="max-width: 30%;" />
 </div>
 
-### 📊 Random Quote
-
 > Code your future, one keystroke at a time.
