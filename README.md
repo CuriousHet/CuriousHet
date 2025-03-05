@@ -9,7 +9,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -29,12 +28,6 @@
   <img alt="Hadoop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"/>
   <img alt="FastAPI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-  
-  <span style="font-size: 18px; font-weight: bold;">Next.js</span>
-  <span style="font-size: 18px; font-weight: bold;">Snowflake</span>
-  <span style="font-size: 18px; font-weight: bold;">Tailwind CSS</span>
-  <span style="font-size: 18px; font-weight: bold;">dbt</span>
-  <span style="font-size: 18px; font-weight: bold;">Airflow</span>
 </div>
 
 
