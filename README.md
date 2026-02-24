@@ -20,9 +20,5 @@
 
 <br clear="left"/>
 
-### 📊 Stats
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CuriousHet&show_icons=true&locale=en&layout=compact" alt="CuriousHet" style="max-width: 30%;" />
-</div>
-
 Code your future, one keystroke at a time.
+
